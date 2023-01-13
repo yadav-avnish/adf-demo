@@ -1,0 +1,9 @@
+{
+	"name": "ineuron-dataengineer",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4644238-4a80-4104-bf55-bec37950f987",
+		"tenantId": "9e39c31b-f6f4-4bc6-9f91-d4440b727493"
+	}
+}
